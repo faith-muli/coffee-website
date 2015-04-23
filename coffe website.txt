@@ -1,0 +1,18 @@
+coffee website
+
+
+1. navigation bar-logo, items
+
+2.mug div- animated mug with steamed coffee
+
+3. map intergration
+
+4.navigation contents-menu(coffee and pastries),map-location, blog 
+
+5.footer
+
+Requirements
+photos-coffee mug,beans,pastries
+logo
+Tools
+bootstrap,css, jquery
