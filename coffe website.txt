@@ -1,5 +1,12 @@
 coffee website
 
+completed:
+============
+* included bootstrap files
+* added index.html and main.css
+
+TODO list:
+============
 
 1. navigation bar-logo, items
 
@@ -11,8 +18,10 @@ coffee website
 
 5.footer
 
-Requirements
+Requirements : 
+==================
 photos-coffee mug,beans,pastries
 logo
 Tools
 bootstrap,css, jquery
+
